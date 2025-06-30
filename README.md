@@ -21,4 +21,5 @@ features/highlights
 
 
  screenshots/demos
+ ->demo dashboard view-https://github.com/Ridhiparashar/blinkitdashboard/blob/main/blinkitsnapshot.JPG
  
