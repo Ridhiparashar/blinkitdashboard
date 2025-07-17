@@ -1,9 +1,9 @@
 # blinkitdashboard
 ## 1. Short Description/Purpose
-the blinkit analytics dashboard is a visually engaging and analytical power bi report desiged to help users explore and  compare the grocery data of  blinkit.The dashboard focuses on highlighting the major outlet types and item types and so as their ratings,outlet type,outlet location type ,outlet size,total sum of sales, items fat content,items weight.this tool is intended for use by grocery  sales analytics,competition in item type  and data driven strategists who seek  to understand trends and characterstics of blinkit globally.
+The blinkit Analytics Dashboard is a Visually Engaging and Analytical Power bi Report desiged to help users explore and  compare the grocery data of  blinkit.The dashboard focuses on highlighting the major outlet types and item types and so as their ratings,outlet type,outlet location type ,outlet size,total sum of sales, items fat content,items weight.this tool is intended for use by grocery  sales analytics,competition in item type  and data driven strategists who seek  to understand trends and characterstics of blinkit globally.
 
 ## 2. Tech stack
-the dashboard was built with the following tools and technologies:
+The Dashboard was built with the following Tools and Technologies:
 
 -> POWER BI DESKTOP:-main data visualisation platform used for report creation.
 
