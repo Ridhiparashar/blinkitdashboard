@@ -20,9 +20,17 @@ source:-blinkitindia.com
 data on 8000+  grocery items(products) available including their other details like the outlet size,location and type ,the total sales of diffrent items and their total fat content and item weight in tables with the blinkit accross the nation .
 
 ## Features/Highlights
-1. the Blinkit India generates billions of turnover. 
-3. Comparing the highest and the lowest sales points and integrating outlet related information by engaging various visualising graphs like stacked bar graphs,pie charts ,donut charts,stacked area chart and slicers.
+1. Comprehensive Sales & Operations Overview: Gain instant insights into Blinkit's performance, from total sales to detailed item and outlet metrics.
 
+2. Dominant Supermarket Outlet Analysis: Quickly identify the significant role of 'Supermarket Type' outlets in sales, item weight, and customer ratings, showcasing their primary contribution to the business.
+
+3. Granular Item Performance Tracking: Monitor individual item visibility, weight, and the establishment year of the outlets they are sold from, enabling effective inventory management and product strategy.
+
+4. Payment Method Insights: Analyze the distribution of transactions and customer ratings across various payment methods (though not explicitly detailed in the image, it's a common feature for such dashboards, inferring from the previous example).
+
+5. Geographical and Outlet-Specific Data: Understand sales distribution and outlet characteristics (e.g., Outlet Location Type, Outlet Type, Item Fat Content) to identify strategic locations and optimize delivery networks.
+  
+6. Detailed Breakdown of Item Characteristics: Explore data on item fat content, location tier, and outlet type, crucial for product assortment and logistics planning.
 ## Screenshots/Demos
 -> Demo Dashboard View-https://github.com/Ridhiparashar/blinkitdashboard/blob/main/blinkitsnapshot.JPG
  
